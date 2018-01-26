@@ -1,0 +1,1 @@
+cmd_/home/dupandit/OS_Projects/501_TNPHEAP/kernel_module/tnpheap.o := ld -m elf_x86_64   -r -o /home/dupandit/OS_Projects/501_TNPHEAP/kernel_module/tnpheap.o /home/dupandit/OS_Projects/501_TNPHEAP/kernel_module/src/tnpheap_core.o 

@@ -1,0 +1,1 @@
+cmd_/home/dupandit/501_NPHeap/kernel_module/npheap.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/dupandit/501_NPHeap/kernel_module/npheap.ko /home/dupandit/501_NPHeap/kernel_module/npheap.o /home/dupandit/501_NPHeap/kernel_module/npheap.mod.o
